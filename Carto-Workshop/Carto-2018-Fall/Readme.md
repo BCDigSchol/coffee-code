@@ -8,9 +8,9 @@ This workshop will introduce participants to visualizing spatial data, creating 
 1. Discuss basic GIS terms and concepts
 
 2. [Download datasets](https://github.com/BCDigSchol/coffee-code/blob/master/Carto-Workshop/Carto-2018-Fall/201810_data_sets.zip) and review
-    - Crime incident reports
+    - Crime incident reports (only 2013, firearm related)
     - Census tracts for Suffolk County
-    - Population Density in Suffolk County 
+    - Population Density in Suffolk County (2010 Census)
     - Police Districts in Boston, Massachusetts
     - Climate Data
 
