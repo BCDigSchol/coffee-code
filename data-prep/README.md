@@ -65,12 +65,10 @@ This repository contains materials used in the Coffee & Code workshop: Collect &
    - Can also use expression `value.toDate('MM-dd-yyyy').toString('yyyy-MM-dd')`
 
 6. Geocoding Location Data with [OpenRefine](http://openrefine.org/) & [OpenCage Geocoder API](https://opencagedata.com/)
-    - We will use a sample dataset (file: boston_police_stations_nocoord.csv)
-    - Instructions for geocoding:
-      - Add column by fetching URLs based on on (address) column
-      - Give your new column a name
-      - Change throttle delay to 1000 milliseconds
-      - Use Expression:
+   - Add column by fetching URLs based on on (address) column
+   - Give your new column a name
+   - Change throttle delay to 1000 milliseconds
+   - Use Expression:
 `'https://api.opencagedata.com/geocode/v1/json?key=yourAPI&no_annotations=1&email=yourEmail&app=google-refine&q=' + escape(value, 'url')`
     - Extract the latitude/longitude
       - Select Edit Column ==> Add column based on this (JSON) column
