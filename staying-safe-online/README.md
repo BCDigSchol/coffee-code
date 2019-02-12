@@ -20,10 +20,19 @@ Scenarios:
 1. Describe a situation in which tracking is awesome because it creates a personalized online experience.
 2. On the other hand, describe a situation in which tracking is awful.
 
-Two strategies:
-1. Browser or device security settings
-2. Browser plugins (what's a plugin??)
+Three strategies:
+1. [Device privacy settings](https://spreadprivacy.com/tag/device-privacy-tips)
+2. [Browser privacy settings](https://its.ucsc.edu/software/release/browser-secure.html) and browser plugins, e.g.:
+   - Cookie AutoDelete
+   - Decentraleyes
+   - DuckDuckGo Privacy Essentials
+   - HTTPS Everywhere
+   - Privacy Badger
+   - uBlock Origin
 3. Containerizing
+   - Dedicate one browser to one particular site, e.g. Safari is for Facebook.
+   - Use an incognito window to browse particular sites, e.g. I always use an incognito windo when I shop on Amazon.
+   - Install a browser plugin, e.g. Firefox's [Containers](https://support.mozilla.org/en-US/kb/containers).
 
 ### Scenario 2. You've been hacked! :scream:
 
