@@ -1,5 +1,5 @@
 # Basics of Spatial Visualization
-[View or download slides](/BasicsSpatialVisualization_v2.pdf)
+[View or download slides](/spatialviz/BasicsSpatialVisualization_v2.pdf)
 
 This workshop will introduce participants to basic terms, different map types, data formats, use cases, and visualization tools. Through hands-on exercises participants will deconstruct a map project to see how it was made and think about how a visualization might be used in pedagogy or research.
 
