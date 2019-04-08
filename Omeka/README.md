@@ -24,4 +24,4 @@ This repository contains materials used in the Coffee & Code workshops on digita
 - [Digital Medieval Manuscripts at Houghton Library](http://hcl.harvard.edu/libraries/houghton/collections/early_manuscripts/bibliographies/Eng.cfm)
 - [Hamilton College Library Shaker Photographs Collection](http://contentdm6.hamilton.edu/cdm/search/collection/sha-pho/field/all/mode/all/conn/and/order/title/ad/asc&hnode=135)
 - [The Metropolitan Museum of Art Shaker Furniture Collection](https://www.metmuseum.org/toah/hd/shak/hd_shak.htm)
-- [Séamus Connolly Collection of Irish MUsic](https://connollymusiccollection.bc.edu/)
+- [Séamus Connolly Collection of Irish Music](https://connollymusiccollection.bc.edu/)
