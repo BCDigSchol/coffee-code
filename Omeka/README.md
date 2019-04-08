@@ -22,6 +22,6 @@ This repository contains materials used in the Coffee & Code workshops on digita
 ### Metadata samples
 - [Beyond Words: Illuminated Manuscripts in Boston Collections](https://beyondwords2016.org/catalog?page=1&total=249)
 - [Digital Medieval Manuscripts at Houghton Library](http://hcl.harvard.edu/libraries/houghton/collections/early_manuscripts/bibliographies/Eng.cfm)
-- [Boston College Japanese Prints Collection](https://bclsco.bc.edu/?f%5Bmods_relatedItem_type_host_collectionFacet_ms%5D%5B%5D=Japanese+prints+collection)
-- [The Metropolitan Museum of Art Shaker Furniture Collection](https://www.metmuseum.org/toah/hd/shak/hd_shak.htm)
 - [Hamilton College Library Shaker Photographs Collection](http://contentdm6.hamilton.edu/cdm/search/collection/sha-pho/field/all/mode/all/conn/and/order/title/ad/asc&hnode=135)
+- [The Metropolitan Museum of Art Shaker Furniture Collection](https://www.metmuseum.org/toah/hd/shak/hd_shak.htm)
+- [Séamus Connolly Collection of Irish MUsic](https://connollymusiccollection.bc.edu/)
